@@ -1,0 +1,7 @@
+EXPLICACION GENERAL
+
+para solucionar y refactorizar este codigo lo que se debe hacer es crear una clase que se encargue de una sola cosa,
+el codigo anterior estaba mal hecho debido a que la clase persona estaba manejando responsabilidades que no debia de manejar
+en este caso, correo electronico, lo unico que se debe hacer para solucionar el problema fue separar cada accion 
+en su respectiva clase..
+

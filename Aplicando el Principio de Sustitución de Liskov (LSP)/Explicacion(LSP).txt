@@ -1,0 +1,7 @@
+EXPLICACION GENERAL
+
+para poder implementar el principio LSP, lleguue a la conclusion de que se necesitaba una clase llamada HybridCourse,
+esta tenia que tener la capacidad de sustituir instancias de la clase course sin que el programa se interrumpa.
+esto lo hice haciendo que HYbridCourse herede de course proporcionando implementacion para los metodos
+de course
+

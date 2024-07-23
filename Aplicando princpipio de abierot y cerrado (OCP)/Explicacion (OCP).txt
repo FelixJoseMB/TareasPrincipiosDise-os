@@ -1,0 +1,6 @@
+EXPLICACION GENERAL
+
+como el principio OCP establece que las entidades deben estar abiertas para su extencion
+pero cerradas para su modificacion, simplemente tuve que refactorizar el codigo sin modificar las clases
+que ya existian, en este caso Onlinecourse y offlinecourse, lo cual se hace con HybridCourse, justo como se hizo con
+el principio (LSP)
